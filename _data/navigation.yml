@@ -2,7 +2,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "Projects"
-    url: /posts/
+    url: /projects/
   - title: "Blog"
     url: "https://praneethdonthu.wordpress.com/"
   - title: "Resume"
