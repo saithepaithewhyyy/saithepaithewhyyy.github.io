@@ -8,6 +8,9 @@ toc: true
 
 ## Uhhhhh Still need to add stuff here lol
 
+### [Charecterization Of the Top Trading Cycle as a Probabilistic Assignment Rule](https://saithepaithewhyyy.github.io/404.html)
+Theorems exist that constrict deterministic assignment rules abiding by to some properties to the TTC algorithm. We analyze the validity of the same when considering probabilistic assignment rules.  
+
 ### [Variational Inference Neural Additive Model](https://github.com/saithepaithewhyyy/Vi-NAM-PML)
 Took a Neural Additive Model, found a paper that used Laplace Approximation and decided to switch it up and try to improve it by using Variational Inference
 
