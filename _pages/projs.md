@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-### [Charecterization Of the Top Trading Cycle as a Probabilistic Assignment Rule](https://saithepaithewhyyy.github.io/404.html)
+### [Charecterization Of the Top Trading Cycle as a Probabilistic Assignment Rule](https://arxiv.org/abs/2511.04142)
 Theorems exist that constrict deterministic assignment rules abiding by to some properties to the TTC algorithm. We analyze the validity of the same when considering probabilistic assignment rules.  
 
 ### [Variational Inference Neural Additive Model](https://github.com/saithepaithewhyyy/Vi-NAM-PML)
