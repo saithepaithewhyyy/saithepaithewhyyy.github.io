@@ -6,6 +6,9 @@ author_profile: true
 toc: true
 ---
 
+### [Chess Opening Analysis]([https://arxiv.org/abs/2511.04142](https://github.com/saithepaithewhyyy/opening-analysis))
+How does one learn chess openings? What are the various factors that matter in studying said openings, not including chess heuristics. And lastly can you make a machine learn to recognise and explain said opening positions. We know LLMs suck at chess, but why?
+
 ### [Charecterization Of the Top Trading Cycle as a Probabilistic Assignment Rule](https://arxiv.org/abs/2511.04142)
 Theorems exist that constrict deterministic assignment rules abiding by to some properties to the TTC algorithm. We analyze the validity of the same when considering probabilistic assignment rules.  
 
