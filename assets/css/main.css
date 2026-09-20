@@ -33,3 +33,41 @@
   margin-top: 0.35rem;
   margin-bottom: 0.4rem;
 }
+
+.timeline-item {
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.25rem;
+  border-left: 3px solid #7a4cff;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 0 8px 8px 0;
+}
+
+.timeline-item summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.timeline-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.timeline-item summary::after {
+  content: "+";
+  float: right;
+  font-size: 1.4rem;
+}
+
+.timeline-item[open] summary::after {
+  content: "−";
+}
+
+.timeline-date {
+  display: block;
+  color: #888;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.timeline-item h3 {
+  margin: 0.35rem 0 0;
+}
