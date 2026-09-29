@@ -13,15 +13,17 @@ I try to write good code. I believe that I am somewhat competent at math. Real a
 
 Maybe checkout my blog. I write pretty good
 
-[Projects](/projects/) ·
-[Résumé](https://drive.google.com/file/d/1OL3mlDLhczgl8z56XN1xsrhdKMhWKsnB/view?usp=drivesdk)
-
 ## How did we get here
 
 ### Software Engineer · UKG
 *2025 — Present*
 
 Help maintain and develop features for UKG's mobile application. I mainly try not to break prod
+
+### Data Science Intern · Ford
+*2024*
+
+Was given unlimited compute and asked to study and explain LLMs and build something. Who would not love such an oppurtunity?
 
 ### B.S. Mathematics and Scientific Computing · IIT Kanpur
 *2021 — 2025*
