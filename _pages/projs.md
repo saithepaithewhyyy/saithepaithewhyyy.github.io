@@ -6,8 +6,8 @@ author_profile: true
 toc: true
 ---
 
-### [Leela Chess Zero](https://github.com/saithepaithewhyyy/lc0) _Open Source_
-I knew I loved chess, and I also knew that I love writing code, so this was kinda obvious. Not anything crazy, but its a start
+### [Leela Chess Zero](https://github.com/saithepaithewhyyy/lc0)
+I knew I loved chess, and I also knew that I love writing code, so this was kinda obvious. Plus, I figured I could give back to open source as when nothing was there for me, OSS was. Not anything crazy, but its a start
 
 ### [Chess Opening Analysis](https://github.com/saithepaithewhyyy/opening-analysis)
 How does one learn chess openings? What are the various factors that matter in studying said openings, not including chess heuristics. And lastly can you make a machine learn to recognise and explain said opening positions. We know LLMs suck at chess, but why?
